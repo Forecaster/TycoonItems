@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "tycoonitems",
+		"name": "Tycoon Items",
+		"description": "An item mod",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["Forecaster"],
+		"credits": "The spacetime continuum",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
