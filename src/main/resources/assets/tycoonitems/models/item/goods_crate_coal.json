@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "tycoonitems:items/crate",
+		"layer1": "minecraft:items/coal"
+	}
+}

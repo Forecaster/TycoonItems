@@ -12,14 +12,15 @@ import org.towerofawesome.tycoonitems.util.IHasModel;
 public class RegistryHandler {
 	@SubscribeEvent
 	public static void onItemRegister(RegistryEvent.Register<Item> event) {
-		event.getRegistry().registerAll(ModItems.items.toArray(new Item[0]));
+		event.getRegistry().registerAll(ModItems.ITEMS.toArray(new Item[0]));
 	}
 
 	@SubscribeEvent
 	public static void onModelRegister(ModelRegistryEvent event) {
-		for (Item item : ModItems.items) {
+		for (Item item : ModItems.ITEMS) {
 			if (item instanceof IHasModel) {
-				((IHasModel) item).registerModels();
+				System.out.println("Register models for item '" + item.getUnlocalizedName() + "'");
+				((IHasModel) item).registerModels(event);
 			}
 		}
 	}

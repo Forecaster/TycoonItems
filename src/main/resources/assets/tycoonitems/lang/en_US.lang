@@ -1,0 +1,6 @@
+itemGroup.tab_goods_crates=Goods Crates
+
+item.crate.name=Crate
+item.goods_crate.coal.name=Crate - Coal
+item.goods_crate.iron.name=Crate - Iron
+item.goods_crate.steel.name=Crate - Steel
