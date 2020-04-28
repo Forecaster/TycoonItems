@@ -1,8 +1,6 @@
 package org.towerofawesome.tycoonitems.items;
 
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemStack;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import org.towerofawesome.tycoonitems.Main;
 import org.towerofawesome.tycoonitems.init.ModItems;
