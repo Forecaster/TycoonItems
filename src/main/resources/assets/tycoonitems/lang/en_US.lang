@@ -1,6 +1,116 @@
-itemGroup.tab_goods_crates=Goods Crates
+itemGroup.tab_goods_crates=Goods
 
 item.crate.name=Crate
-item.goods_crate.coal.name=Crate - Coal
-item.goods_crate.iron.name=Crate - Iron
-item.goods_crate.steel.name=Crate - Steel
+tooltip.item.crate=A strange empty crate...
+
+item.goods_bulk.name=Bulk - Empty
+item.goods_bulk.coal.name=Bulk - Coal
+item.goods_bulk.animal_feed.name=Bulk - Animal Feed
+item.goods_bulk.bauxite.name=Bulk - Bauxite
+item.goods_bulk.clay.name=Bulk - Clay
+item.goods_bulk.gems.name=Bulk - Gems
+item.goods_bulk.gold_ore.name=Bulk - Gold Ore
+item.goods_bulk.grain.name=Bulk - Grain
+item.goods_bulk.plastic.name=Bulk - Plastic
+item.goods_bulk.quarried_stone.name=Bulk - Quarried Stone
+item.goods_bulk.silicone.name=Bulk - Silicone
+item.goods_bulk.iron_ore.name=Bulk - Iron Ore
+
+tooltip.item.goods_bulk=An empty metal bin that could hold loose lumps of things of perhaps pellets or powder...
+tooltip.item.goods_bulk.coal=A bin containing mined coal.
+tooltip.item.goods_bulk.animal_feed=A bin containing animal feed pellets.
+tooltip.item.goods_bulk.bauxite=A bin containing raw bauxite ore.
+tooltip.item.goods_bulk.clay=A bin containing raw clay.
+tooltip.item.goods_bulk.gems=A bin containing raw gems.
+tooltip.item.goods_bulk.gold_ore=A bin containing raw gold ore.
+tooltip.item.goods_bulk.grain=A bin containing grain.
+tooltip.item.goods_bulk.plastic=A bin containing raw plastic pellets.
+tooltip.item.goods_bulk.quarried_stone=A bin containing raw quarried stone.
+tooltip.item.goods_bulk.silicone=A bin containing raw silicone.
+tooltip.item.goods_bulk.iron_ore=A bin containing raw iron ore.
+
+item.goods_boxed.name=Boxed - Empty
+item.goods_boxed.canned_food.name=Boxed - Canned Food
+item.goods_boxed.circuits.name=Boxed - Circuits
+item.goods_boxed.clay_tiles.name=Boxed - Clay Tiles
+item.goods_boxed.consumer_electronics.name=Boxed - Consumer Electronics
+item.goods_boxed.enchanted_gems.name=Boxed - Enchanted Gems
+item.goods_boxed.fertilizer.name=Boxed - Fertilizer
+item.goods_boxed.exotic_flowers.name=Boxed - Exotic Flowers
+item.goods_boxed.furniture.name=Boxed - Furniture
+item.goods_boxed.ink.name=Boxed - Ink
+item.goods_boxed.jewlery.name=Boxed - Jewlery
+item.goods_boxed.magazines.name=Boxed - Magazines
+item.goods_boxed.money.name=Boxed - Money
+item.goods_boxed.paper.name=Boxed - Paper
+
+tooltip.item.goods_boxed=A wooden box that could hold a lot of different things, but it's empty...
+tooltip.item.goods_boxed.canned_food=A box of canned food.
+tooltip.item.goods_boxed.circuits=A box of curcuit boards.
+tooltip.item.goods_boxed.clay_tiles=A box of clay tiles.
+tooltip.item.goods_boxed.consumer_electronics=A box of electronical devices.
+tooltip.item.goods_boxed.enchanted_gems=A box of enchanted gems.
+tooltip.item.goods_boxed.fertilizer=A box of fertilizer.
+tooltip.item.goods_boxed.exotic_flowers=A box of exotic flowers.
+tooltip.item.goods_boxed.furniture=A box of furniture.
+tooltip.item.goods_boxed.ink=A box of ink cartridges.
+tooltip.item.goods_boxed.jewlery=A box of jewelery.
+tooltip.item.goods_boxed.magazines=A box of magazines.
+tooltip.item.goods_boxed.money=A box of money.
+tooltip.item.goods_boxed.paper=A box of paper.
+
+item.goods_long.name=Long - Empty
+item.goods_long.aluminium.name=Long - Aluminium
+item.goods_long.cut_stone.name=Long - Cut Stone
+item.goods_long.gold.name=Long - Gold
+item.goods_long.lumber.name=Long - Lumber
+item.goods_long.planks.name=Long - Planks
+item.goods_long.steel.name=Long - Steel
+
+tooltip.item.goods_long=An empty flat platform that looks like it could hold logs or something....
+tooltip.item.goods_long.aluminium=A stack of processed aluminium.
+tooltip.item.goods_long.cut_stone=A stack of cut stone slabs.
+tooltip.item.goods_long.gold=A stack of processed gold.
+tooltip.item.goods_long.lumber=A stack of lumber.
+tooltip.item.goods_long.planks=A stack of planks.
+tooltip.item.goods_long.steel=A stack of processed steel.
+
+item.goods_cooled.name=Cooled - Empty
+item.goods_cooled.baked_goods.name=Cooled - Baked Goods
+item.goods_cooled.frozen_goods.name=Cooled - Frozen Goods
+item.goods_cooled.fruit.name=Cooled - Fruit
+item.goods_cooled.perishables.name=Cooled - Perishables
+item.goods_cooled.processed_meat.name=Cooled - Processed Meat
+item.goods_cooled.vegetables.name=Cooled - Vegetables
+
+tooltip.item.goods_cooled=An empty insulated storage compartment that could hold all manner of food...
+tooltip.item.goods_cooled.baked_goods=A cooled container filled with baked goods.
+tooltip.item.goods_cooled.frozen_goods=A cooled container filled with frozen food.
+tooltip.item.goods_cooled.fruit=A cooled container filled with fruit.
+tooltip.item.goods_cooled.perishables=A cooled container filled with perishables.
+tooltip.item.goods_cooled.processed_meat=A cooled container filled with proccessed meat.
+tooltip.item.goods_cooled.vegetables=A cooled container filled with vegetables.
+
+item.goods_fluid.name=Fluid - Empty
+item.goods_fluid.crude_oil.name=Fluid - Crude Oil
+item.goods_fluid.asphalt.name=Fluid - Asphalt
+item.goods_fluid.diesel.name=Fluid - Diesel
+item.goods_fluid.gasoline.name=Fluid - Gasoline
+item.goods_fluid.kerosene.name=Fluid - Kerosense
+item.goods_fluid.propane.name=Fluid - Propane
+item.goods_fluid.chemicals.name=Fluid - Chemicals
+
+tooltip.item.goods_fluid=An empty tank that could probably hold all manner of fluids...
+tooltip.item.goods_fluid.crude_oil=A tank filled with crude oil.
+tooltip.item.goods_fluid.asphalt=A tank filled with asphalt.
+tooltip.item.goods_fluid.diesel=A tank filled with diesel.
+tooltip.item.goods_fluid.gasoline=A tank filled with gasoline.
+tooltip.item.goods_fluid.kerosene=A tank filled with kerosense.
+tooltip.item.goods_fluid.propane=A tank filled with propane.
+tooltip.item.goods_fluid.chemicals=A tank filled with chemicals.
+
+item.goods_living.name=Living - Empty
+item.goods_living.livestock.name=Living - Livestock
+
+tooltip.item.goods_living=An empty compartment that could probably hold all kinds of animals...
+tooltip.item.goods_living.livestock.name=A compartment containing livestock.
